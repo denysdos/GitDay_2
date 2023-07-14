@@ -7,6 +7,11 @@ public class Cart {
     //promo code
 
 
+    //details
+    //New changes on cart
+
+
+
 
 
 
